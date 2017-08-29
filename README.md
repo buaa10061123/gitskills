@@ -1,3 +1,3 @@
 # gitskills
 git --no-ff
-git ff
+git ff test
